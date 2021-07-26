@@ -8,9 +8,10 @@ public class APITest {
 	{
 		System.out.println("APITest1");
 		System.out.println("APITest1");
-		System.out.println("APITest1");
-		System.out.println("APITest1");
-		System.out.println("APITest1");		
+		//System.out.println("APITest1");
+		
+		//System.out.println("APITest1");
+		//System.out.println("APITest1");		
 	}
 	@Test
 	public void APITest2()
