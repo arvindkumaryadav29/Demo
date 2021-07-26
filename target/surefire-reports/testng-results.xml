@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-24T14:47:49 GMT-04:00" name="Suite" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="231">
+    <groups>
+    </groups>
+    <test started-at="2021-07-24T14:47:49 GMT-04:00" name="Test2" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="231">
+      <class name="Udemy.MavenLearning.AppiumTest">
+        <test-method signature="AppiumTest1()[pri:0, instance:Udemy.MavenLearning.AppiumTest@4d02f94e]" started-at="2021-07-24T14:47:49 GMT-04:00" name="AppiumTest1" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest1 -->
+        <test-method signature="AppiumTest2()[pri:0, instance:Udemy.MavenLearning.AppiumTest@4d02f94e]" started-at="2021-07-24T14:47:49 GMT-04:00" name="AppiumTest2" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest2 -->
+      </class> <!-- Udemy.MavenLearning.AppiumTest -->
+      <class name="Udemy.MavenLearning.SeleniumTest">
+        <test-method signature="SeleniumTest1()[pri:0, instance:Udemy.MavenLearning.SeleniumTest@ea6147e]" started-at="2021-07-24T14:47:49 GMT-04:00" name="SeleniumTest1" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+        <test-method signature="SeleniumTest2()[pri:0, instance:Udemy.MavenLearning.SeleniumTest@ea6147e]" started-at="2021-07-24T14:47:49 GMT-04:00" name="SeleniumTest2" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- Udemy.MavenLearning.SeleniumTest -->
+      <class name="Udemy.MavenLearning.APITest">
+        <test-method signature="APITest1()[pri:0, instance:Udemy.MavenLearning.APITest@48974e45]" started-at="2021-07-24T14:47:49 GMT-04:00" name="APITest1" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APITest1 -->
+        <test-method signature="APITest2()[pri:0, instance:Udemy.MavenLearning.APITest@48974e45]" started-at="2021-07-24T14:47:49 GMT-04:00" name="APITest2" finished-at="2021-07-24T14:47:49 GMT-04:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APITest2 -->
+      </class> <!-- Udemy.MavenLearning.APITest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
