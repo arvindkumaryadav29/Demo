@@ -7,6 +7,8 @@ public class APITest {
 	public void APITest1()
 	{
 		System.out.println("APITest1");
+		System.out.println("APITest1");
+		System.out.println("APITest1");
 	}
 	@Test
 	public void APITest2()
